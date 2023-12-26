@@ -9,3 +9,20 @@
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 }
+```
+## Check Outdated Packages in Node.js
+
+To check for outdated packages within your Node.js project, you can utilize the following commands:
+
+### Check for Outdated Packages
+Run the command:
+```bash
+npm outdated
+```
+
+### Update a Specific Package:
+```bash
+npm update <package-name>
+```
+
+
