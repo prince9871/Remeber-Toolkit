@@ -24,6 +24,20 @@ npm outdated
 ```bash
 npm update <package-name>
 ```
+## React Node Solutions
+
+### Resolve CORS Issues
+Package Installations & Configs:
+```bash
+npm i cors
+```
+
+```bash
+const cors=require('cors')
+app.use(cors())
+```
+
+
 
 ## VS Code Boosters
 
